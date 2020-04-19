@@ -1,4 +1,4 @@
-# Extension thay tăng follow facebook
+# Extension tăng follow facebook
 
 [Xem Demo và video hướng dẫn ](https://youtu.be/1ojuW7Y-d7g)
 
