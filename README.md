@@ -2,7 +2,7 @@
 
 [Xem Demo và video hướng dẫn ](https://youtu.be/1ojuW7Y-d7g)
 
-![mediumish](bia_follow.jpeg)
+![mediumish](bia_follow.png)
 
 
 ### Cảm ơn các bạn đã xem và ủng hộ video của mình
